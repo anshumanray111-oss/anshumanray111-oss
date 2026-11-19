@@ -1,71 +1,57 @@
+
+
 # Hi, I'm Anshuman Ray 👋
 
-### Aspiring Data Analyst | Python | SQL | Excel | Data Visualization | AI
+### Computer Science Graduate | Python & Data Analytics Enthusiast
 
-I’m an aspiring Data Analyst building practical projects to strengthen my skills in data analysis, visualization, programming, and AI-powered applications.
-
-I enjoy turning ideas into useful projects and continuously improving my technical and problem-solving skills through hands-on work.
+I enjoy exploring data, building practical projects and experimenting with technology. I'm interested in using programming and analytical tools to solve problems and turn ideas into useful applications.
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🛠️ Technical Skills
 
-### Data & Analytics
-- Python
-- SQL
-- Microsoft Excel
-- Data Analysis
-- Data Visualization
+- **Programming:** Python
+- **Database & Querying:** SQL
+- **Data Analysis:** Pandas, NumPy, Data Cleaning, EDA
+- **Data Visualization:** Matplotlib, Power BI
+- **Spreadsheet:** Microsoft Excel
+- **Tools:** Jupyter Notebook, Git, GitHub
+- 
 
-### Programming & Web
-- HTML5
-- CSS3
-- JavaScript
-- Git
-- GitHub
+## 🚀 Featured Projects
 
-### AI
-- Artificial Intelligence
-- AI APIs
-- Image Enhancement
-- HTML5 Canvas
+### 📊 Restaurant Data Analysis | Cognifyz
+Exploratory data analysis of restaurant data using Python, Pandas, NumPy and Matplotlib.
 
----
+- Analysed 9,551 records across 21 columns.
+- Explored cuisines, pricing, ratings and online delivery trends.
+- Completed Level 1 and Level 2 project tasks.
 
-## 🚀 Projects
+🔗[View Repository](https://github.com/anshumanray111-oss/Cognifyz-Data-Analysis)
 
-### ✨ AI Image Enhancer
+### 🖼️ AI Image Enhancer
+An image enhancement project exploring AI-powered image processing.
 
-A responsive web application that enhances and upscales images using the Picsart AI API, with a free offline fallback powered by HTML5 Canvas.
-
-**Technologies:** HTML5 • CSS3 • JavaScript • HTML5 Canvas • Picsart AI API
-
-
-🔗 [View Project on GitHub](https://github.com/anshumanray111-oss/AI-IMAGE-ENHANCER-PROJECT)
+🔗[View Repository](https://github.com/anshumanray111-oss/AI-IMAGE-ENHANCER-PROJECT)
 
 ---
 
-## 📚 Currently Learning
+## 🌱 Currently Learning
+
+- Improving Python and SQL skills
+- Data analysis and visualization
+- Building practical projects
+
+## 🎯 Career Interests
 
 - Data Analytics
-- SQL
-- Python for Data Analysis
-- Data Visualization
-- Machine Learning
+- MIS & Reporting
+- Business Operations
+- Graduate Trainee Opportunities
 
 ---
 
-## 🎯 Career Focus
+## 🤝 Connect With Me
 
-I’m currently focused on building strong, practical projects and developing the skills required for a career in Data Analytics and related technology roles.
-
----
-
-## 📫 Connect With Me
-
-- 💻 [GitHub](https://github.com/anshumanray111-oss)
-- 🔗 [LinkedIn](https://www.linkedin.com/in/anshuman-ray-24a3b2254/)
-
----
-
-⭐ Thanks for visiting my profile!
+- **LinkedIn:** [Anshuman Ray](https://www.linkedin.com/in/anshuman-ray-24a3b2254)
+- **GitHub:** [anshumanray111-oss](https://github.com/anshumanray111-oss)
