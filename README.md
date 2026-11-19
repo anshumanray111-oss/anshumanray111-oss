@@ -51,7 +51,9 @@ An image enhancement project exploring AI-powered image processing.
 
 ---
 
+
 ## 🤝 Connect With Me
 
 - **LinkedIn:** [Anshuman Ray](https://www.linkedin.com/in/anshuman-ray-24a3b2254)
 - **GitHub:** [anshumanray111-oss](https://github.com/anshumanray111-oss)
+- **Email:** [jibanray404@gmail.com](mailto:jibanray404@gmail.com)
